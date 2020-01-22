@@ -1,1 +1,0 @@
-web: npm run staging
